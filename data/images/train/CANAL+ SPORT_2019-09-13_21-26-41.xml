@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>CANAL+ SPORT_2019-09-13_21-26-41.jpg</filename>
+	<path>C:\Users\Adam\Documents\Projekty\ObjectDetection\data\images\train\CANAL+ SPORT_2019-09-13_21-26-41.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pko</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>530</xmin>
+			<ymin>191</ymin>
+			<xmax>538</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>
