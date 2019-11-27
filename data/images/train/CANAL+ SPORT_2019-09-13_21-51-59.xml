@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Train_Small</folder>
+	<filename>CANAL+ SPORT_2019-09-13_21-51-59.jpg</filename>
+	<path>C:\Users\Adam\Desktop\Train_Small\CANAL+ SPORT_2019-09-13_21-51-59.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Adidas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>265</xmin>
+			<ymin>350</ymin>
+			<xmax>303</xmax>
+			<ymax>378</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Adidas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>833</xmin>
+			<ymin>272</ymin>
+			<xmax>860</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Adidas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>553</xmin>
+			<ymin>460</ymin>
+			<xmax>577</xmax>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+</annotation>
